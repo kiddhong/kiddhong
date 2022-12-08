@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+
+<!--
+**kiddhong/kiddhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiddhong&show_icons=true&theme=dark&count_private=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiddhong&layout=compact&theme=dark&count_private=true)
-
-<!--
-**kiddhong/kiddhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
