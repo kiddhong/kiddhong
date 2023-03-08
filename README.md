@@ -1,5 +1,6 @@
-### Hi there 👋
-
+- 👋 I'm Jehong Lee.
+- 🔭 I'm robotics software engineer. 🤖
+- 🤗 I'm interested in visual inertial odometry, localization for mobile robots.
 
 <!--
 **kiddhong/kiddhong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
